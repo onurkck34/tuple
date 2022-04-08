@@ -8,4 +8,5 @@ print(liste[-2])
 print(type(liste))
 print(tupleListe)
 print(liste)
-
+print(len(tupleListe))
+print(len(liste))
